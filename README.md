@@ -14,7 +14,7 @@ It explores trends, product preferences and customer demographic revenue using p
 -How to visualize insights in Excel.
 
 ## Preview
-![Dashboard Screenshot](https://github.com/ChrysDom/E-commerce-sales-analysis/commit/adaf9290f33e609b8c0f9a2cfd8a7dacf4703567#diff-7f93c108ac236b5f1040e5d863c1bb8d443d626b5a17e5e071665f97bca025bb)
+![Dashboard Screenshot](https://github.com/christine-portfolio/Retail-Sales-and-Demographics-Analysis/commit/3533364dbc014c6f61281d83c11ea01216bf844c)
 
 >Click the image above to see a preview of the final dashboard.
 
